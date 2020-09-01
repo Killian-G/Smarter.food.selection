@@ -93,10 +93,14 @@
 	<PawnPolicyCard_ResetPolicy>Par défaut</PawnPolicyCard_ResetPolicy>
 	<PawnPolicyCard_CannotSetPolicy>* Impossible de changer la politique *</PawnPolicyCard_CannotSetPolicy>
 	<PawnPolicyCard_CurrentPolicy>Politique actuelle: </PawnPolicyCard_CurrentPolicy>
+	<PawnPolicyCard_NoDescription>Pas de description</PawnPolicyCard_NoDescription>
+	<PawnPolicyCard_AllowsAnything>* Tout autorisé *</PawnPolicyCard_AllowsAnything>
 	
-	<!-- ============== Others ============== -->
+	<!-- ============== Hardcoded policies ============== -->
 
 	<UnrestrictedPolicyLabel>* Sans restrictions *</UnrestrictedPolicyLabel>
+	<UnrestrictedPolicyDescription>Même comporement qu'en vanilla</UnrestrictedPolicyDescription>
+	<NoFoodPolicyLabel>Sans nourriture !</NoFoodPolicyLabel>
 
 	<!-- ============== Food categories ============== -->
 	
@@ -107,22 +111,22 @@
 	<FoodCategory.Corpse>Cadavre</FoodCategory.Corpse>
 	<FoodCategory.Hay>Foin</FoodCategory.Hay>
 	<FoodCategory.Kibble>Croquettes</FoodCategory.Kibble>
-	<FoodCategory.RawBad>RawBad</FoodCategory.RawBad>
-	<FoodCategory.RawTasty>RawTasty</FoodCategory.RawTasty>
-	<FoodCategory.RawInsect>RawInsect</FoodCategory.RawInsect>
-	<FoodCategory.RawHuman>RawHuman</FoodCategory.RawHuman>
-	<FoodCategory.FertEggs>FertEggs</FoodCategory.FertEggs>
-	<FoodCategory.AnimalProduct>AnimalProduct</FoodCategory.AnimalProduct>
-	<FoodCategory.MealAwful>MealAwful</FoodCategory.MealAwful>
-  <FoodCategory.MealSurvival>MealSurvival</FoodCategory.MealSurvival>
-	<FoodCategory.MealSimple>MealSimple</FoodCategory.MealSimple>
-	<FoodCategory.MealFine>MealFine</FoodCategory.MealFine>
-	<FoodCategory.MealLavish>MealLavish</FoodCategory.MealLavish>
-	<FoodCategory.Plant>Plant</FoodCategory.Plant>
-	<FoodCategory.Grass>Grass</FoodCategory.Grass>
-	<FoodCategory.Luxury>Luxury</FoodCategory.Luxury>
-	<FoodCategory.Hunt>Hunt</FoodCategory.Hunt>
-	<FoodCategory.Tree>Tree</FoodCategory.Tree>
+	<FoodCategory.RawBad>Mauvaise viande cru</FoodCategory.RawBad> <!--Need review-->
+	<FoodCategory.RawTasty>Viande cru savoureuse</FoodCategory.RawTasty>
+	<FoodCategory.RawInsect>Insect cru</FoodCategory.RawInsect>
+	<FoodCategory.RawHuman>Humain cru</FoodCategory.RawHuman>
+	<FoodCategory.FertEggs>Œufs (fécondés)</FoodCategory.FertEggs>
+	<FoodCategory.AnimalProduct>Production animal</FoodCategory.AnimalProduct>
+	<FoodCategory.MealAwful>Mauvais repas</FoodCategory.MealAwful>
+	<FoodCategory.MealSurvival>Ration de survie</FoodCategory.MealSurvival>
+	<FoodCategory.MealSimple>Plat simple</FoodCategory.MealSimple>
+	<FoodCategory.MealFine>Plat raffiné</FoodCategory.MealFine>
+	<FoodCategory.MealLavish>Plat gastronomique</FoodCategory.MealLavish>
+	<FoodCategory.Plant>Plante</FoodCategory.Plant>
+	<FoodCategory.Grass>Herbe</FoodCategory.Grass>
+	<FoodCategory.Luxury>Luxe</FoodCategory.Luxury>
+	<FoodCategory.Hunt>Chasse</FoodCategory.Hunt>
+	<FoodCategory.Tree>Arbre</FoodCategory.Tree>
 
 	<!-- ============== Obsolete keys ============== -->
 

@@ -24,7 +24,7 @@ namespace WM.SmarterFoodSelection
 			moodEffectMatters = true,
 			unrestricted = true,
 			pawnValidator = (PawnPair arg) => true,
-			description = "Same behavior as vanilla."
+			description = "UnrestrictedPolicyDescription".Translate()
 		};
 		// should never be used by user
 		public static readonly Policy Wild = new Policy

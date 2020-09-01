@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SFS_DefaultPrisonerPolicy.label>Prisonnier </SFS_DefaultPrisonerPolicy.label>
+  <SFS_DefaultPrisonerPolicy.description>Régime par defaut des prisonniers\nMangera en priorité les repas de mauvaise qualité // Traduction non fini</SFS_DefaultPrisonerPolicy.description>
+
+  <SFS_DefaultPrisonerPolicy_PlusMealSurvival.label>Prisonnier + rations de survie</SFS_DefaultPrisonerPolicy.label>
+  <SFS_DefaultPrisonerPolicy_PlusMealSurvival.description>Ce régime est identique a celui par defaut mais autorise les rations de survie\nMangera en priorité les repas de mauvaise qualité // Traduction non fini</SFS_DefaultPrisonerPolicy.description>
+
+
+</LanguageData>

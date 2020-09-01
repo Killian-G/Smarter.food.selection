@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SFS_DefaultPetPolicy.label>Animaux</SFS_DefaultPetPolicy.label>
+  <SFS_DefaultPetPolicy.description>Nourriture pour animaux en priorité. Chasse &gt; Herbe &gt; Cadavre humanoïde &gt; Foins &gt; Croquette..\nMais autorise les autres nourriture si celle-ci ne sont pas disponible.</SFS_DefaultPetPolicy.description>
+
+  <SFS_DefaultPetPolicy_PlusMealSurvival.label>Animaux + rations de survie</SFS_DefaultPetPolicy_PlusMealSurvival.label>
+  <SFS_DefaultPetPolicy_PlusMealSurvival.description>Nourriture pour animaux en priorité. Chasse &gt; Herbe &gt; Cadavre humanoïde &gt; Foins &gt; Croquette..\nMais autorise les autres nourriture si celle-ci ne sont pas disponible.</SFS_DefaultPetPolicy_PlusMealSurvival.description>
+
+  <SFS_GrassHayKibble.label>Foins, Croquettes</SFS_GrassHayKibble.label>
+  <SFS_GrassHayKibble.description>Herbe, foins et croquette uniquement.</SFS_GrassHayKibble.description>
+
+  <SFS_PetPolicy_NoHunt.label>Sans chasse</SFS_PetPolicy_NoHunt.label>
+
+  <SFS_PetPolicy_Limited.label>Nourriture pour animaux uniquement</SFS_PetPolicy_Limited.label>
+  <SFS_PetPolicy_Limited.description>Nourriture pour animaux uniquement: Herbes, foins, croquette, viande/cadavre humanoïde.\nMais aussi les pates simple et nutritive (Elles sont plus couteuse que les croquette!)</SFS_PetPolicy_Limited.description>
+
+  <SFS_DefaultPetPolicy_AllowTrees.label>Arbres autorisé</SFS_DefaultPetPolicy_AllowTrees.label>
+  <SFS_DefaultPetPolicy_AllowTrees.description>Identique a "Animaux" mais autorise les arbres, Utile pour les thrumbos.</SFS_DefaultPetPolicy_AllowTrees.description>
+
+  <SFS_DefaultPetPolicy_NoHumanCorpses.label>Pas de cadavre humanoïde</SFS_DefaultPetPolicy_NoHumanCorpses.label>
+  <SFS_DefaultPetPolicy_NoHumanCorpses.description>Identique a "Animaux" mais ne mange pas de cadavre humanoïde</SFS_DefaultPetPolicy_NoHumanCorpses.description>
+
+
+</LanguageData>

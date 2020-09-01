@@ -94,10 +94,14 @@
 	<PawnPolicyCard_ResetPolicy>Reset to default</PawnPolicyCard_ResetPolicy>
 	<PawnPolicyCard_CannotSetPolicy>* Cannot select policy *</PawnPolicyCard_CannotSetPolicy>
 	<PawnPolicyCard_CurrentPolicy>Current policy: </PawnPolicyCard_CurrentPolicy>
-	
-	<!-- ============== Others ============== -->
+	<PawnPolicyCard_NoDescription>No description</PawnPolicyCard_NoDescription>
+	<PawnPolicyCard_AllowsAnything>* Allows anything *</PawnPolicyCard_AllowsAnything>
+
+	<!-- ============== Hardcoded policies ============== -->
 
 	<UnrestrictedPolicyLabel>* Unrestricted *</UnrestrictedPolicyLabel>
+	<UnrestrictedPolicyDescription>Same behavior as vanilla.</UnrestrictedPolicyDescription>
+	<NoFoodPolicyLabel>No food !</NoFoodPolicyLabel>
 
 	<!-- ============== Food categories ============== -->
 	

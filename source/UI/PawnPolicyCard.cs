@@ -162,7 +162,7 @@ namespace WM.SmarterFoodSelection.UI
 			if (policy.description != null && policy.description.Any())
 				listingMiddleLeft.Label(policy.description);
 			else
-				listingMiddleLeft.Label("(No description)"); //TODO: lang file
+				listingMiddleLeft.Label("(" + "PawnPolicyCard_NoDescription".Translate() + ")");
 
 			{
 				var font = Text.Font;

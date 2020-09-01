@@ -82,7 +82,7 @@ namespace WM.SmarterFoodSelection
 			var textgroups = new List<string>();
 
 			if (elements == null)
-				return "* Allows anything *"; // TODO: .Translate()
+				return "PawnPolicyCard_AllowsAnything".Translate();
 
 			var list = (from entry in elements
 						group entry by entry.totalOffsetValue);

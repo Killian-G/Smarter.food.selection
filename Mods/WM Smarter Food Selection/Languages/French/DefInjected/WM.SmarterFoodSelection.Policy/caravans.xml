@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SFS_MealsOnly_PlusRaw.label>Repas + fourrage</SFS_MealsOnly_PlusRaw.label>
+  <SFS_MealsOnly_PlusRaw.description>Similaire au régime "Repas uniquement" mais utilise les fourrage avant la nourriture non périsable (Rations de survie, Pemmican). Adapté au trajet pour caravane. Attention à bien assigner ce régime AVANT que la caravane quitte la carte</SFS_MealsOnly_PlusRaw.description>
+
+  <SFS_MealsOnly_Worst_PlusRaw.label>Repas (Mauvais) + fourrage</SFS_MealsOnly_Worst_PlusRaw.label>
+  <SFS_MealsOnly_Worst_PlusRaw.description>Similaire au régime "Repas uniquement (Moins bon en priorité)" mais utilise les fourrage avant la nourriture non périsable (Rations de survie, Pemmican). Adapté au trajet pour caravane. Attention à bien assigner ce régime AVANT que la caravane quitte la carte</SFS_MealsOnly_Worst_PlusRaw.description>
+
+
+</LanguageData>
